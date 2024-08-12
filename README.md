@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">Here, I share projects and recent learnings on cybersecurity and IT</h3>
-<img src="https://github.com/SaramCySec/SaramCySec/blob/main/flyingcat.gif" width="300" />
+<div align="center"><img src="https://github.com/SaramCySec/SaramCySec/blob/main/flyingcat.gif" width="200" /></div>
 
 
 <h3 align="left">Connect with me:</h3>
