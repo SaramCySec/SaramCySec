@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">Here, I share projects and recent learnings on cybersecurity and IT</h3>
+<h2 align="center">Cybersecurity portfolio in continuous development. Here, I share projects and recent learnings on information protection, vulnerability analysis, and best security practices.</h2>
+
 <div align="center"><img src="https://github.com/SaramCySec/SaramCySec/blob/main/flyingcat.gif" width="200" /></div>
 
 
